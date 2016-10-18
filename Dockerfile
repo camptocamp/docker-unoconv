@@ -1,4 +1,4 @@
-FROM pataquets/ubuntu:trusty
+FROM ubuntu:xenial
 
 # Base 'unoconv' package image.
 # 'unoconv' does not require an X Window server if acting as client.
